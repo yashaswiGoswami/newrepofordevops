@@ -1,4 +1,4 @@
-package firstpackage;
+
 
 public class SampleHelloClass {
 
